@@ -97,7 +97,6 @@ Java编程技术乐园有学习资料: 一些Java工程师常用学习资源，�
 <p/>
 <center><font color='blue'>扫描关注，后台回复<b><a href='https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA'>【秘籍】</a></b>，获取珍藏干货！ <b>99.9%</b>的伙伴都很喜欢</font></center>
 <p/>
-![](https://img.imgdb.cn/item/600840ab3ffa7d37b3c169a9.jpg)
 
 ---
 
