@@ -1,7 +1,6 @@
 
 
-<marquee width=400 behavior=alternate direction=left align=middle><span>欢迎来到 Java World ，开启一段学习的旅程！</span>!</marquee>
-
+<marquee width=1000 behavior=alternate direction=left align=middle><span><b>🏳‍🌈 欢迎来到 Java World ，让我们一起开启这个世界的旅程吧！💖</b></span>!</marquee>
 
 
 ---
@@ -22,7 +21,9 @@
 
 > 《易经》有云：“取法其上，得乎其中，取法其中，得乎其下，取法其下，法不得也”。
 
-[有哪些相见恨晚的高效学习方法？](https://zhuanlan.zhihu.com/p/25415549)
+[【01】学习方法](StudySkills/StudySkillsCollect.md)
+
+[【02】思维方式](StudySkills/ThinkIdeaCollect.md)
 
 
 # 基础
@@ -88,19 +89,23 @@ git commit 的 emoji表情来源 ： [gitmoji](https://gitmoji.carloscuesta.me/)
 
 
 # Java编程技术乐园
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号【Java编程技术乐园】一位Java工程师的小天地，专注 Java 相关技术：Spring、Mybatis、SpringBoot、SpringCloud、数据库、MySQL、Redis、分布式、中间件、集群、Linux、网络、多线程，分享技术干货和学习经验，致力于Java进阶开发！
+后面会持续完善此项目，构建属于自己的技术栈和知识体系。如果有对相关技术感兴趣的，欢迎一起探讨交流。
 
-Java编程技术乐园有学习资料: 一些Java工程师常用学习资源，关注公众号后，后台回复关键字 “秘籍” 即可免费无套路获取。
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号【Java编程技术乐园】一位来自陕北的Java工程师的小天地，专注后端开发。 相关技术：操作系统、网络、算法、Java、Spring、Mybatis、SpringBoot、SpringCloud、数据库、MySQL、Redis、分布式、中间件、集群、Linux、多线程，并发、架构经验、技术成长等，分享技术干货和学习经验，致力于Java后端进阶和精进！
 
 
 <center><font color='red'><b>Java编程技术乐园</b></font>：分享技术和生活，每天进步一点点，小的积累，带来大的改变！</center>
 <p/>
-<center><font color='blue'>扫描关注，后台回复<b><a href='https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA'>【秘籍】</a></b>，获取珍藏干货！ <b>99.9%</b>的伙伴都很喜欢</font></center>
+<center><font color='blue'><b>2021Java进阶全套<a href='https://pan.baidu.com/s/1afa5gictBEMmzxpxrDV1Hw' target="_blank">【秘籍】</a></b>，扫描后，回复： <b>【2021】</b>即可获取免费获取！</font></center>
 <p/>
 
+
+<a href="https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA" target="_blank"><p style="text-align: center">![](java_world_qr.png)</p></a>
+
+
+
 ---
-
-
+<p/>
 
 <b><em><span style="
     font-size: 16px;
