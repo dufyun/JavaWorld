@@ -25,7 +25,7 @@
 
 ![](http://assets.processon.com/chart_image/6016379263768925f1524b76.png)
 
-[【学习力】如何提高学习效率综合贴-思维导图](http://assets.processon.com/chart_image/6016379263768925f1524b76.png)
+[【学习力】如何提高学习效率综合贴-思维导图](https://www.processon.com/view/link/60163c5af346fb7423bfa913)
 
 
 # Skill

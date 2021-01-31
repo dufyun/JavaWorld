@@ -68,6 +68,8 @@ todo，在梳理相关技术栈
 # 🖽 框架理论
 
 # 🀄 中间件技术
+> Any problem in computer science can be solved by another layer of indirection.
+> 计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决。
 
 
 # 🎶 性能调优
