@@ -5,11 +5,12 @@
 > 学习是从有限的例子中，找出问题和答案之间规律的一个过程，而所找出的规律叫做知识.
 
 ![](img/Study-00-1.png)
+
 [学习观01：好多人一辈子都没搞清什么是学习](https://zhuanlan.zhihu.com/p/46841114)
 
 
 
-## 知识/技能
+## 知识/技能/能力
 > 知识是人脑对客观事物的主观表征；技能是指人们通过练习而获得的动作方式和动作系统；能力则是学习者对学到的知识和技能经过内化的产物，是使活动顺利完成的个性心理特征。
 
 ![](img/Study-02.jpg)
@@ -18,9 +19,27 @@
 [能力与知识、技能三者之间的区别与联系是什么](https://www.zhihu.com/question/22475646/answer/167381293)
 
 
+## 高效学习
+> 坚持才是最重要的，否则在牛逼的技巧也毫无卵用
 
 
-## 学习新技术路线
+![](http://assets.processon.com/chart_image/6016379263768925f1524b76.png)
+
+[【学习力】如何提高学习效率综合贴-思维导图](http://assets.processon.com/chart_image/6016379263768925f1524b76.png)
+
+
+# Skill
+
+## 费曼学习法
+> 如果你不能用自己的话通俗易懂地把一个新知识点讲出来，说明你没有真正理解它。
+
+![](img/Study-01-0.png)
+
+
+- [高效学习方法——费曼技巧学习法！](https://mp.weixin.qq.com/s/o7xy-aAtjAvpcfHmtGbewA)
+
+
+## 新技术学习路线
 
 > 面对一项新技术的时候，我们怎样去学习才能循序渐进，最终理解得深刻？
 
@@ -36,19 +55,23 @@
 - Source Code。如果我们要学习的技术是开源的，那么很幸运，我们能得到源代码。这是一份终极资料。
 
 
-# Skill
-
-## 费曼学习法
-> 如果你不能用自己的话通俗易懂地把一个新知识点讲出来，说明你没有真正理解它。
-
-![](img/Study-01-0.png)
-
-
-- [高效学习方法——费曼技巧学习法！](https://mp.weixin.qq.com/s/o7xy-aAtjAvpcfHmtGbewA)
-
 
 ## 其他
 - [有哪些相见恨晚的高效学习方法？](https://zhuanlan.zhihu.com/p/25415549)
 
-- [硬核烧脑学习指南，帮你把学习效率提升 10 倍](https://mp.weixin.qq.com/s/5xq409xyABbSNrZkjvrN5g)
+- [【学习力】硬核烧脑学习指南，帮你把学习效率提升 10 倍](https://mp.weixin.qq.com/s/5xq409xyABbSNrZkjvrN5g)
 
+- [【学习力】有效管理自己知识，多总结和分享](http://note.youdao.com/noteshare?id=6c7b69a2cf3fc821578fd470db494d3e&sub=5198FCBDEF854605867785B809AC5F05)
+
+
+
+<p/>
+
+---
+
+
+
+<b><em><span style="
+    font-size: 16px;
+    color: #167dba;
+"> 青，取之于蓝，而青于蓝；冰，水为之，而寒于水。 ——《荀子·劝学》</span></em></b>

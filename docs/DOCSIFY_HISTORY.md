@@ -1,6 +1,6 @@
 # 历程
 
-> 2020.06.02 创建本工程，开始记录技术点滴，让成长看的见。
+> 2021.01.01 创建本工程，开始记录技术点滴，让成长看的见。
 
 ## docsify 搭建过程
 
@@ -70,7 +70,7 @@ docsify serve docs
 
 
 
-### 20200602 开始喽
+### 20210101 开始喽
 
 #### 原始内容
 
@@ -318,7 +318,29 @@ docsify serve docs
 
 ...
 
-#### 本次备忘
+
+### 20210131 加油喽
+#### 修改和添加内容
+- 更新首页显示内容和标签
+- README 添加了一些分类并添加emoji表情
+- 添加如下内容
+
+> [学习方法](StudySkills/StudySkillsCollect.md)
+
+> [思维方式](StudySkills/ThinkIdeaCollect.md)
+
+> [提问技巧](StudySkills/AskQuestionsCollect.md)
+
+上述内容，很多是收集网络好的资源。希望在学习之前，先掌握一些高效的方法和技巧，事半功倍。
+
+
+### todo...
+
+- [ ]技术体系的大框架完善
+
+
+
+#### 备忘
 
 - 在线[urlencode](http://www.jsons.cn/urlencode/)编解码 
 
@@ -332,10 +354,6 @@ docsify serve docs
   >   <link rel="stylesheet" href="//at.alicdn.com/t/font_1858225_z4k22u8cij9.css">
 
 - [docsify plugins](https://docsify.js.org/#/plugins) 插件
-
-
-
-### todo...
 
 
 
