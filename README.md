@@ -54,6 +54,8 @@
 ## 💠 数据结构和算法
 
 
+## 软件工程
+[软件工程之美-极客时间](http://gk.link/a/10ouA)
 
 ---
 
@@ -75,6 +77,10 @@ todo，在梳理相关技术栈
 # 🎶 性能调优
 
 
+# 🗼 架构设计
+[从0开始学架构-极客时间](http://gk.link/a/10ouB)
+
+
 # 🤵 面试指南
 
 
@@ -82,6 +88,23 @@ todo，在梳理相关技术栈
 > 工欲善其事，必先利其器
 
 [资源收集](http://www.aflyun.work/tools/)
+
+
+---
+
+# 🤵 软技能
+> 一个人事业的成功15%靠自身的努力,而85%取决于良好的人际关系。--卡耐基
+
+## 沟通表达
+
+
+## 技术管理
+
+
+## 技术演讲
+
+
+
 
 ---
 
@@ -114,7 +137,7 @@ git commit 的 emoji表情来源 ： [gitmoji](https://gitmoji.carloscuesta.me/)
 <p/>
 
 
-<a href="https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA" target="_blank"><p style="text-align: center">![](/docs/java_world_qr.png)</p></a>
+<a href="https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA" target="_blank"><p style="text-align: center">![](java_world_qr.png)</p></a>
 
 <center><font color='blue'><b>2021Java进阶全套<a href='https://pan.baidu.com/s/1afa5gictBEMmzxpxrDV1Hw' target="_blank">【秘籍】</a></b>，扫描后，回复： <b>【1024】</b>即可获取免费获取！</font></center>
 <p/>
