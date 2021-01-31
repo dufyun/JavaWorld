@@ -89,7 +89,6 @@ todo，在梳理相关技术栈
 
 [资源收集](http://www.aflyun.work/tools/)
 
-
 ---
 
 # 🤵 软技能
@@ -102,7 +101,6 @@ todo，在梳理相关技术栈
 
 
 ## 技术演讲
-
 
 
 
@@ -136,8 +134,8 @@ git commit 的 emoji表情来源 ： [gitmoji](https://gitmoji.carloscuesta.me/)
 
 <p/>
 
+<a href="https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA" target="_blank"><p style="text-align: center">![](/docs/java_world_qr.png)</p></a>
 
-<a href="https://mp.weixin.qq.com/s/1yRoYDnnJMAqz44qU9NCBA" target="_blank"><p style="text-align: center">![](java_world_qr.png)</p></a>
 
 <center><font color='blue'><b>2021Java进阶全套<a href='https://pan.baidu.com/s/1afa5gictBEMmzxpxrDV1Hw' target="_blank">【秘籍】</a></b>，扫描后，回复： <b>【1024】</b>即可获取免费获取！</font></center>
 <p/>
